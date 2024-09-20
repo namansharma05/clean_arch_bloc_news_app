@@ -20,6 +20,7 @@ dependencies:
     retrofit: ^4.4.1
     flutter_hooks: ^0.20.5
     cached_network_image: ^3.4.1
+    dio: ^5.7.0
 
 dev_dependencies:
     flutter_test:
